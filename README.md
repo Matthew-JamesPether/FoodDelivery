@@ -22,5 +22,21 @@ Developed a food delivery system using Java. Stores the uses name, email address
 1. Select the Main.jave file and select run
 
 ### Usage
+A ScreenShot of where to see which towns are available on the application
+![Screenshot (29)](https://github.com/Matthew-JamesPether/FoodDelivery/blob/main/FoodDelivery%20ScreenShots/Screenshot%20(29).png)
+
 A ScreenShot of how to run the file
-![Screenshot (26)]
+![Screenshot (26)](https://github.com/Matthew-JamesPether/FoodDelivery/blob/main/FoodDelivery%20ScreenShots/Screenshot%20(26).png)
+
+A ScreenShot of how to deliver the food
+![Screenshot (27)](https://github.com/Matthew-JamesPether/FoodDelivery/blob/main/FoodDelivery%20ScreenShots/Screenshot%20(27).png)
+
+A ScreenShot of the invoice being issued
+![Screenshot (28)](https://github.com/Matthew-JamesPether/FoodDelivery/blob/main/FoodDelivery%20ScreenShots/Screenshot%20(28).png)
+
+A ScreenShot of how to See the invoice that has been sent
+![Screenshot (30)](https://github.com/Matthew-JamesPether/FoodDelivery/blob/main/FoodDelivery%20ScreenShots/Screenshot%20(30).png)
+
+### Credit
+* [Matthew-James Pether](https://www.linkedin.com/in/m-j-pether-150793301)
+* [HyperionDevelopment Mentors](https://www.hyperiondev.com/)
