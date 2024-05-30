@@ -1,0 +1,39 @@
+Class CommonDetails:
+   - Properties:
+      - Name
+      - City
+      - ContactNumber
+
+Class Customer (inherit ContactDetails): 
+   - Properties:
+      - OrderNumber
+      - Address
+      - EmailAddress
+
+Class Restaurant (inherit ContactDetails):
+   - Properties:
+      - SpecailInstructions
+   - Methods:
+      - get the price
+      - get the orders
+      - get amount for each order
+
+Main Program:
+   - Create Customer object by capturing details.
+   - Create Restaurant object by capturing details.
+   - Read drivers.txt file
+   - find the driver with the smallest load in the same area.
+   - If a suitable driver is found:
+      - Generate an invoice using Invoice class.
+      - Write the invoice to invoice.txt.
+   - If no suitable driver is found:
+      - Display a message: "Sorry! Our drivers are too far away from you to be able to deliver to your location."
+   - Create invoice:
+      - Display Customers OrderNumber, Name, Email, ContactNumber and city 
+      - Display message of where customer ordered
+      - Display what the customer ordered
+      - Display Special Instuctions (if there are any)
+      - Display total amount
+      - Diplay a message on who is delivering the food
+      - Display address
+      - Display restaurant contact details

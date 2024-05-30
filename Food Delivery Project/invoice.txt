@@ -1,0 +1,7 @@
+Order number 1234Customer: MJEmail: mj@gmail.comPhone number: 0662226211Location: DurbanYou have ordered the following from Bo Burgers in Durban: 
+1 x Burgers (R127.00)
+2 x chips (R42.00)
+1 x milkshake (R71.00)
+Special Instructions: No onionsTotal: R282.00 Eugene Santana is nearest to the restaurant and so he will be delivering your
+order to you at:
+22 LetchworthIf you need to contact the restaurant, their number is 075 330 2020.
