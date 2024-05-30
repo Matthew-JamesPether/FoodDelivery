@@ -22,3 +22,5 @@ Developed a food delivery system using Java. Stores the uses name, email address
 1. Select the Main.jave file and select run
 
 ### Usage
+A ScreenShot of how to run the file
+![Screenshot (26)]
