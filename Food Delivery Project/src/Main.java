@@ -56,7 +56,7 @@ public class Main {
 				int smallestLoad = Integer.MAX_VALUE;
 
 				// Creating File instance to reference driver file
-				File driversFile = new File("drivers.txt");
+				File driversFile = new File("drivers-info.txt");
 
 				// Creating Scanner instance to read driversFile
 				Scanner driversScan = new Scanner(driversFile);
